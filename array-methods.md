@@ -1,4 +1,4 @@
-# NOW for nodejs developers
+# Array Methods
 
 ## English
 {Abstract}
