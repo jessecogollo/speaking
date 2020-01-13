@@ -11,13 +11,11 @@ He born and grow up At Medellin, Colombia. his prefer food is Chicharron.
 When Jesse is not working, he spend his time co-organizing MedellinJS and JSConf Colombia.
 Also he is a drawer amateur.
 
-
 ## Español
 
 Jesse Cogollo es un desarrollador Javascript para Lahaus.
 Nacio en Medellín Colombia.
 Co-organiza MedellinJS, JSConf Colombia. Es un apasionado por las comunidades tecnologicas
-
 
 ## 30 second version
 
@@ -27,7 +25,6 @@ de su ciudad crezcan y aporten positivamente a su ciudad ademas es co-organizado
 donde ha trabajado y aprendido de gente maravillosa con sus mismos ideales.
 Entre sus hobbies a el le gusta el futbol donde es hincha del America de Cali y dibujar en su remarkable (así haga dibujos feos :joy:).
 ya en la parte profesional Esta trabajando para Lahaus una startup ubicada en medellin, donde se desempeña como senior fullstack developer desarrollando con Vuejs en el front-end y ruby en el back-end.
-
 
 ## 2 minute version
 
